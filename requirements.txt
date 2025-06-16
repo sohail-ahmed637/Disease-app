@@ -1,0 +1,21 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit-option-menu
+#Explanation:
+#streamlit — Required to run the app.
+
+#pandas — For reading CSV files and DataFrames.
+
+ #numpy — Numerical operations.
+
+ #scikit-learn — For loading and using the ML models (.sav files).
+
+ #matplotlib — For plotting (line plots, box plots, etc.).
+
+ #seaborn — For heatmaps and advanced plots.
+
+ #streamlit-option-menu — For the sidebar menu.
