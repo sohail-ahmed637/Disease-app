@@ -1,10 +1,12 @@
-streamlit
-pandas
-numpy
-scikit-learn
 matplotlib
 seaborn
 streamlit-option-menu
+numpy
+pickle-mixin
+streamlit
+scikit-learn
+pandas
+
 #Explanation:
 #streamlit — Required to run the app.
 
